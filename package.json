@@ -1,16 +1,9 @@
 {
   "name": "steps",
   "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
-  },
-  "author": "",
-  "license": "ISC",
   "description": "",
+  "main": "index.js",
+  "author": "",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -26,6 +19,12 @@
     "web-vitals": "^2.1.4",
     "mini.css": "^3.0.1",
     "nanoid": "^4.0.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
@@ -44,5 +43,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "license": "ISC"
 }
